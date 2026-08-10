@@ -14,7 +14,7 @@ Each writeup aims to cover:
 - **Results** - what the finished thing actually does, with benchmarks or measurements where they're meaningful
 - **Lessons** - what I'd do differently, and what I took away for next time
 
-Where it helps, I include diagrams, sanitized snippets, or illustrative pseudocode — enough to make the reasoning concrete without reproducing anything that shouldn't be shared.
+Where it helps, I include diagrams, sanitized snippets, or illustrative pseudocode - enough to make the reasoning concrete without reproducing anything that shouldn't be shared.
 
 ## Index
 
