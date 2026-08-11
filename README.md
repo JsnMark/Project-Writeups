@@ -22,6 +22,6 @@ Where it helps, I'll try to include diagrams, sanitized snippets, or illustrativ
 | _[Relational Database from Scratch](./database_cpp.md/)_ |
 | _[Multithreaded Web Server](./webserver.md/)_ |
 | _[Simple Compiler](./compiler.md/)_ |
-| _[ZotGuessr (link to Devpost)](https://devpost.com/software/zotguessr-lgo78c)_ |
+| _[ZotGuessr, ZotHacks 2024 Most Popular Vote (link to Devpost)](https://devpost.com/software/zotguessr-lgo78c)_ |
 
 
