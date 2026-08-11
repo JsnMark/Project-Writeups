@@ -21,4 +21,6 @@ Where it helps, I include diagrams, sanitized snippets, or illustrative pseudoco
 
 | Project |
 |---------|
-| _[Database from Scratch (C++)](./database_cpp.md/)_ |
+| _[Relational Database from Scratch (C++)](./database_cpp.md/)_ |
+| _[Multithreaded Web Server in C](./webserver_c.md/)_ |
+| _[Simple Compiler](./compiler.md/)_ |
