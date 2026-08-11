@@ -1,6 +1,6 @@
 # Project Writeups
 
-This is a collection of writeups documenting projects whose source isn't be made public. Rather than leave those projects invisible, this repo captures the design decisions, tradeoffs, things that broke, and what I learned fixing them. Think of each entry as a blog post or engineering writeup rather than a code drop.
+This is a collection of writeups documenting projects whose source code isn't made public. Rather than leave those projects invisible, this repo captures the design decisions, tradeoffs, things that broke, and what I learned fixing them. Think of each entry as a blog post or engineering writeup rather than a code drop.
 
 ## What you'll find here
 
