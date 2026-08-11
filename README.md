@@ -21,4 +21,4 @@ Where it helps, I include diagrams, sanitized snippets, or illustrative pseudoco
 
 | Project | Summary |
 |---------|---------|
-| _[Database from Scratch (C++)](./database_cpp/)_ | One-line description |
+| _[Database from Scratch (C++)](./database_cpp.md/)_ | One-line description |
