@@ -19,6 +19,6 @@ Where it helps, I include diagrams, sanitized snippets, or illustrative pseudoco
 ## Index
 
 
-| Project | Summary |
-|---------|---------|
-| _[Database from Scratch (C++)](./database_cpp.md/)_ | One-line description |
+| Project |
+|---------|
+| _[Database from Scratch (C++)](./database_cpp.md/)_ |
